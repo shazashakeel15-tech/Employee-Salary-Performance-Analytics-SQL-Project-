@@ -12,10 +12,15 @@ Joins
 Key Analyses:
 
 Employee master dataset creation using JOINs
+
 Department-level salary KPIs
+
 Employee ranking within departments
+
 Top performers identification
+
 Salary fairness analysis
+
 Payroll contribution percentage calculation
 
 SQL Concepts Applied:
@@ -36,7 +41,8 @@ Analyzed salary fairness using department averages
 Performed trend analysis using LAG/LEAD
 
 Author
+
 SHAZA SHAKEEL 
+
 Data Analyst
-Your Name
-Aspiring Data Analyst
+
